@@ -1,0 +1,17 @@
+10:25:53 - MouseLeft
+10:25:54 - MouseLeft(hold)
+10:25:55 - MouseLeft(hold)
+10:25:58 - MouseLeft
+10:25:59 - MouseLeft(hold)
+10:26:03 - MouseRight
+10:26:04 - MouseRight(hold)
+10:26:05 - MouseRight(hold)
+10:26:07 - MouseLeft
+10:26:08 - MouseLeft(hold)
+10:26:09 - MouseLeft(hold)
+10:26:20 - MouseLeft
+10:26:27 - MouseLeft(hold)
+10:26:28 - MouseLeft(hold)
+10:26:30 - MouseLeft
+10:26:30 - MouseLeft(hold)
+10:26:34 - MouseRight
