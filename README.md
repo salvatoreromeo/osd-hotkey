@@ -18,7 +18,7 @@ Right click on the tray icon ofr options:
 
 ## For developers
 
-This program is written in  [AutoHotkey]: https://www.autohotkey.com/
+This program is written in  [AutoHotkey](https://www.autohotkey.com/)
 
 You can git clone and modify it as you want. 
 
